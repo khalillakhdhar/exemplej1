@@ -1,6 +1,6 @@
 package heritage;
 
-public class Velo extends MoyenDeTransport {
+public class Velo extends MoyenDeTransport  {
 private int nbroue;
 
 }
